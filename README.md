@@ -108,15 +108,5 @@ xdg-open pathfinding_results_complete.png # Linux
 * **3.8 → 3.12** – uses `opencv-python` wheels.  
 * **3.13** – uses `opencv-python-headless`; everything else (NetworkX, matplotlib, numpy, scikit-image, pillow) already ships wheels.
 
----
 
-## 🤝 Contributing & Extensions
-* Plug-in extra colour pickers (green, blue …) by editing `detect_coloured_points()`.
-* Swap the longest-path strategy with a Genetic Algorithm or beam-search for bigger graphs.
-* Add GUI selection of manual node sequences for custom routes.
 
-Pull-requests and issue reports are welcome!
-
----
-
-© 2024  – Educational & research use only. 🛤️ 
