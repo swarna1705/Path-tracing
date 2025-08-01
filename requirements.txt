@@ -1,0 +1,10 @@
+# Core dependencies
+networkx>=3.2
+matplotlib>=3.8
+
+# Image processing (Python 3.13 compatible)
+opencv-python-headless>=4.9.0.80; python_version>="3.12"
+opencv-python>=4.9.0; python_version<"3.12"
+numpy>=1.26.0
+scikit-image>=0.22.0
+pillow>=10.1 
